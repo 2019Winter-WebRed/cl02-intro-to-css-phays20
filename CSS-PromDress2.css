@@ -1,0 +1,41 @@
+/*
+* Due Date 
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+	width: 80%;
+	margin: auto;
+	background-color: palevioletred;
+	font-family: Arial, Helvetica, sans-serif; 
+	
+
+}
+
+h1 {
+	background-color: palevioletred; /* color for background */
+	color: white;  /* color of text */ 
+}
+
+p { /* type selector for All paragraphs */
+	 color: deepskyblue; 
+	
+}
+
+#redText { /* use an id to change text to red */
+	color: red;
+}
+
+.greenText { /* use a class to change text to green in different kinds of elements */
+	color: darkgreen; 
+}
+	
+	
